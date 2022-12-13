@@ -19,3 +19,4 @@ if d % 2 == 1 and d > 20:
     print("Not Weird")
 
     print()
+    \
