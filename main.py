@@ -17,3 +17,5 @@ d = int(input("Задача №4\nВведите целое число : "))
 
 if d % 2 == 1 and d > 20:
     print("Not Weird")
+
+    print()
